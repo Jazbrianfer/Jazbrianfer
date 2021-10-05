@@ -1,0 +1,31 @@
+body{
+  background:radial-gradient(cirle,#E2C2B9,#F1F7E7);
+  font-family: arial,helvetica,sans-serif;
+  text-align:center;background-color:pink;
+}
+hr{
+  border:none;
+  border-top: 7px dotted;
+  width: 7%;
+  border-color: grey;
+}
+img{
+  border-radius: 15px;
+}
+.circulo{
+  border radius: 100%;
+  width:80px;
+  height:80px;
+}
+.boton{
+  color: white;
+  padding:15px 20px;
+  background-color: grey;
+  font-size: 1.5em;
+  border-radius:10px;
+}
+.boton:hover{
+  background-color:orange;
+  border-radius: 20px;
+  color: black;
+}
