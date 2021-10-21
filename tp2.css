@@ -1,0 +1,28 @@
+body{
+  background:color:#6ECB63;
+
+}
+
+header{
+  background-color: #28DF99;
+  height: 200px;
+  width: auto;
+
+}
+nav{
+  background-color: red;
+  height: 50px;
+  width: auto;
+}
+
+section{
+  background-color:#F7FD04;
+  height: 200px;
+  width: auto;
+}
+
+aside{
+  background-color: #FF00E4;
+  height: 200px;
+  width: auto;
+}
