@@ -1,28 +1,29 @@
 body{
-  background:color:#6ECB63;
-
+ background-color: #C800FF;
+ height: 200px;
+ width: auto;
 }
 
 header{
-  background-color: #28DF99;
+  background-color: #BEBEC1;
   height: 200px;
   width: auto;
 
 }
 nav{
-  background-color: red;
+  background-color: #B991CD;
   height: 50px;
   width: auto;
 }
 
 section{
-  background-color:#F7FD04;
+  background-color:#9D638E;
   height: 200px;
   width: auto;
 }
 
 aside{
-  background-color: #FF00E4;
+  background-color: #820365;
   height: 200px;
   width: auto;
 }
