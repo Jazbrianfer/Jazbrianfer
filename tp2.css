@@ -1,12 +1,13 @@
 body{
  background-color: #C800FF;
- height: 200px;
+
  width: auto;
+
 }
 
 header{
   background-color: #BEBEC1;
-  height: 200px;
+  ;
   width: auto;
 
 }
@@ -14,16 +15,18 @@ nav{
   background-color: #B991CD;
   height: 50px;
   width: auto;
+ position: absolute;
 }
 
 section{
   background-color:#9D638E;
-  height: 200px;
+  h
   width: auto;
 }
 
 aside{
-  background-color: #820365;
-  height: 200px;
+  background-color:#a999be;
+
   width: auto;
+
 }
