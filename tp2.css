@@ -7,7 +7,7 @@ body{
 
 header{
   background-color: #BEBEC1;
-  ;
+
   width: auto;
 
 }
@@ -20,7 +20,7 @@ nav{
 
 section{
   background-color:#9D638E;
-  h
+  border: 10px solid;
   width: auto;
 }
 
@@ -29,4 +29,7 @@ aside{
 
   width: auto;
 
+}
+ul{
+  list-style-type: none;
 }
