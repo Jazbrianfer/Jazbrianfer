@@ -33,3 +33,35 @@ aside{
 ul{
   list-style-type: none;
 }
+article{
+  width: 48%;
+  display: inline-block;
+  text-align: justify;
+}
+p{
+  padding: 10px;
+}
+img{
+  border-radius: 10px;
+}
+.seccion1{
+  text-align: center;
+}
+.imagen-seccion img{
+  margin-left: 20%
+
+}
+
+.seccion2{
+  text-align: center;
+}
+.imagen-seccion img{
+  margin-left: 20%
+
+}
+img{
+  border-radius: 10px
+}
+article{
+  width: 48%
+}
